@@ -1,4 +1,6 @@
 body{padding: 0;margin: 0;background-color: #F9F9F9;width: 100%;height: 100%;font-family: 'Open Sans', 'lucida grande', 'Segoe UI', arial, verdana, 'lucida sans unicode', tahoma, sans-serif;color: black;}
+h2{font-size: 1em;display: inline;}
+img{width:100%;height:100%;}
 #page-head{padding:10px 4px;}
 .head-links{margin:1% 0% 1% 0%;text-align: right;}
 .head-links a{text-decoration: none;color: cadetblue;font-size: 18px;font-weight: normal;margin-right: 4%;}
